@@ -12,7 +12,8 @@
         "name": "E-Hentai",
         "lang": "all",
         "id": "6412875640301237981",
-        "baseUrl": "https://e-hentai.org"
+        "baseUrl": "https://e-hentai.org",
+        "versionId": 1
       }
     ]
   }
