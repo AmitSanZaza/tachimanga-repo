@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Tachiyomi: E-Hentai",
+    "pkg": "eu.kanade.tachiyomi.extension.all.ehentaicustom",
+    "apk": "tachiyomi-all.ehentaicustom-v1.4.1.apk",
+    "lang": "all",
+    "code": 104001,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "E-Hentai",
+        "lang": "all",
+        "id": "6412875640301237981",
+        "baseUrl": "https://e-hentai.org"
+      }
+    ]
+  }
+]
